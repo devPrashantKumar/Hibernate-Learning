@@ -1,3 +1,15 @@
+# Maven
+**/target/
+
+# IntelliJ IDEA
+**/.idea/
+**/*.iml
+**/modules.xml
+**/workspace.xml
+**/tasks.xml
+**/usage.statistics.xml
+**/shelf/
+
 # Compiled class file
 *.class
 
